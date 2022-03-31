@@ -1,0 +1,31 @@
+body {
+  background-image: url(robert-anasch-McX3XuJRsUM-unsplash.jpg);
+}
+
+.card {
+  margin-bottom: 25px;
+  border-color: rgb(50, 110, 119);
+  background-color: rgb(221, 240, 243);
+
+}
+
+.card-header{
+  background-color: rgb(22, 70, 75);
+  color: var(--white);
+}
+
+.divider {
+  border-color: rgb(18, 14, 78);
+  background-color: rgb(221, 240, 243);
+  text-align: center;
+}
+
+h1{
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.text-success{
+  color: rgb(22, 70, 75) !important;
+}
