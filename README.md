@@ -3,7 +3,7 @@
 #### Description:
 This was a week 17 assignment that that I took some extra time styling
 
-<img src= "Refactoring Book List.jpg" width='300'/>
+<img src= "Refactoring Book List.jpg" width='500'/>
  
 #### Installation:
 
